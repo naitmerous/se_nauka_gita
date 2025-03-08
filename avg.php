@@ -5,6 +5,6 @@ function zwykla_srednia(a,b)
 }
 function wazona_srednia(a,b)
 {
-	return (a+b)*20
+	return (a+b)*2137
 }
 ?>

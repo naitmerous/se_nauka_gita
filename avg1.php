@@ -8,8 +8,8 @@ function srednia_wazona($a = 0, $b = 0)
 	$wynik = ($a+b)/2;
 	return $wynik;
 }
-$a = 8;
-$b = 6;
+$a = 21;
+$b = 37;
 $wynik = srednia_wazona($a,$b);
 echo ($wynik);
 ?>
